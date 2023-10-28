@@ -1,0 +1,15 @@
+C:\myCoding\ModuleCollege\Pr21_101_Pervushin_1\Pr21_101_Pervushin_1\obj\Debug\Pr21_101_Pervushin_1.csproj.AssemblyReference.cache
+C:\myCoding\ModuleCollege\Pr21_101_Pervushin_1\Pr21_101_Pervushin_1\obj\Debug\Pr21_101_Pervushin_1.csproj.SuggestedBindingRedirects.cache
+C:\myCoding\ModuleCollege\Pr21_101_Pervushin_1\Pr21_101_Pervushin_1\obj\Debug\MainWindow.g.cs
+C:\myCoding\ModuleCollege\Pr21_101_Pervushin_1\Pr21_101_Pervushin_1\obj\Debug\App.g.cs
+C:\myCoding\ModuleCollege\Pr21_101_Pervushin_1\Pr21_101_Pervushin_1\obj\Debug\Pr21_101_Pervushin_1_MarkupCompile.cache
+C:\myCoding\ModuleCollege\Pr21_101_Pervushin_1\Pr21_101_Pervushin_1\bin\Debug\Pr21_101_Pervushin_1.exe.config
+C:\myCoding\ModuleCollege\Pr21_101_Pervushin_1\Pr21_101_Pervushin_1\bin\Debug\Pr21_101_Pervushin_1.exe
+C:\myCoding\ModuleCollege\Pr21_101_Pervushin_1\Pr21_101_Pervushin_1\bin\Debug\Pr21_101_Pervushin_1.pdb
+C:\myCoding\ModuleCollege\Pr21_101_Pervushin_1\Pr21_101_Pervushin_1\obj\Debug\MainWindow.baml
+C:\myCoding\ModuleCollege\Pr21_101_Pervushin_1\Pr21_101_Pervushin_1\obj\Debug\Pr21_101_Pervushin_1.g.resources
+C:\myCoding\ModuleCollege\Pr21_101_Pervushin_1\Pr21_101_Pervushin_1\obj\Debug\Pr21_101_Pervushin_1.Properties.Resources.resources
+C:\myCoding\ModuleCollege\Pr21_101_Pervushin_1\Pr21_101_Pervushin_1\obj\Debug\Pr21_101_Pervushin_1.csproj.GenerateResource.cache
+C:\myCoding\ModuleCollege\Pr21_101_Pervushin_1\Pr21_101_Pervushin_1\obj\Debug\Pr21_101_Pervushin_1.csproj.CoreCompileInputs.cache
+C:\myCoding\ModuleCollege\Pr21_101_Pervushin_1\Pr21_101_Pervushin_1\obj\Debug\Pr21_101_Pervushin_1.exe
+C:\myCoding\ModuleCollege\Pr21_101_Pervushin_1\Pr21_101_Pervushin_1\obj\Debug\Pr21_101_Pervushin_1.pdb
